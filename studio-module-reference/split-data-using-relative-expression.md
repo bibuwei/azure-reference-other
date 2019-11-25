@@ -38,7 +38,7 @@ Other options in the **Split Data** module:
 
 ##  Use a relative expression to divide a dataset
 
-1.  Add the [Split Data](split-data.md) module to your experiment in Stuio, and connect it as input to the dataset you want to split.
+1.  Add the [Split Data](split-data.md) module to your experiment in Studio, and connect it as input to the dataset you want to split.
   
 2.  For **Splitting mode**, select **relative expression split**.
   
